@@ -1,4 +1,4 @@
-openaiastroid==2.12.10
+astroid==2.12.10
 asttokens==2.0.8
 backcall==0.2.0
 black==22.8.0
