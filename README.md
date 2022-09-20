@@ -11,3 +11,6 @@ I used the Open Ai API to write a function that could receive an input string, c
 # Key Objective
 
 The main objective was to build something that, although simple, would help me adapt to building small things and building more frequently. The Open Ai is a company with an API that does everything one coud imagine. From manipulating images and making paintings to spell checking and question/answer bots, the options appear to be limitless.
+
+![image](https://user-images.githubusercontent.com/70504872/191162952-2ccd8a93-b46e-4176-9464-7fbef12c5b13.png)
+
