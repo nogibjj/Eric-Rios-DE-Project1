@@ -1,6 +1,8 @@
+#!/usr/bin/env python
+
 import openai
 import os
-
+import click
 
 # Write a function that takes in a sentence and returns a corrected version of the sentence
 
@@ -23,3 +25,15 @@ Corrected sentence:""",
         stop=["\n"],
     )
     return response.choices[0].text
+
+
+@click.command()
+@click.argument("sentence")
+def main(sentence):
+    """Corrects a sentence using OpenAI's GPT-3 API"""
+    print(correct_sentence(sentence))
+
+
+if __name__ == "__main__":
+    # pylint: disable=no-value-for-parameter
+    main()
