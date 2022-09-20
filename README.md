@@ -1,9 +1,9 @@
 [![Python application test with Github Actions](https://github.com/nogibjj/Eric-Rios-DE-Project1/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Eric-Rios-DE-Project1/actions/workflows/main.yml)
 
 
-# Eric-Rios-DE-Project1
+# Eric Rios DE Project1 : Open Ai English Grammar Checker
 
-Eric Rios DE Project1 : Open Ai English Grammar Checker
+
 
 
 I used the Open Ai API to write a function that could receive an input string, correct it, and return it. This was a really good project to learn about the world of APIs. 
